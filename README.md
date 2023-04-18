@@ -11,3 +11,4 @@ Here are some hilarious things about me:
 💬 Ask me about Jira, Groovy, LInux, AWS, or how to make the perfect grilled cheese sandwich 🍞🧀
 📫 How to reach me: bogdan.radu@b4it.ro, but please don't send me hate mail if my jokes aren't funny. I'm fragile. 😔
 ⚡ Fun fact: Did you know that "debugging" is just a fancy term for "staring at code until your eyes bleed"? It's true, try it yourself! 🤪
+:)
