@@ -23,4 +23,6 @@ Here are some hilarious things about me:
 >>[![](small-mail-icon-2.jpg?cropResize=25,50  "")](mailto:bogdan.radu@b4it.ro)
 ![Circle-icons-mail svg](mailto:bogdan.radu@b4it.ro)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Bogdan`s Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
