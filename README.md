@@ -18,6 +18,6 @@ Here are some hilarious things about me:
 
 ⚡ Fun fact: Did you know that "debugging" is just a fancy term for "staring at code until your eyes bleed"? It's true, try it yourself! 🤪
 
-[![Bogdan`s Stats](https://github-readme-stats.vercel.app/api?username=tathagata1428)](https://github.com/anuraghazra/github-readme-stats&show_icons=true))
+[![Bogdan`s Stats](https://github-readme-stats.vercel.app/api?username=tathagata1428)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
 
